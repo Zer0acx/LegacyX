@@ -1,5 +1,7 @@
 # LegacyX
 
+**BTW TO DOWNLOAD DOWNLOAD IT IN RELASE NOT THE CODE BECAUSE IT WILL NOT WORK**
+
 **LegacyX** is a Roblox executor powered by **Rageware** and **Xeno**.
 
 ## ⚠️ DISCLAIMER
